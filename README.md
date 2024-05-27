@@ -1,10 +1,4 @@
 ## ⚡ About Me: 👋
-<p align="center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RRaleBG&show_icons=true&theme=radical)](https://github.com/RRaleBG/github-readme-stats)
-
-</p>
-
 
 ### 🌐 Socials:
 
