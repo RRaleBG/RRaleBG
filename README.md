@@ -1,5 +1,5 @@
 ## ⚡ About Me: 👋
-
+![Design and Development](https://pbs.twimg.com/profile_banners/945877361844568064/1583889522/1500x500)
 ### 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/LinkedIn-blue?logo=linkedIn&style=plastic)](https://www.linkedin.com/in/rado%C5%A1-raj%C4%8Di%C4%87/)
