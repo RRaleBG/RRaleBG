@@ -6,12 +6,15 @@ I'm a .NET developer focused on building secure, scalable, and maintainable busi
 I enjoy working with ASP.NET Core, Razor Pages, Blazor WebAssembly, and .NET MAUI, and I have a strong interest in dashboards, analytics, and clean architecture.
 
 ---
+
 ## 🔧 Technologies & Tools 
 - **Backend:** C#, .NET, ASP.NET Core, EF Core, LINQ
 - **Frontend:** Razor Pages, Blazor, HTML, CSS, Bootstrap
 - **Databases:** SQL Server, MySQL, PostgreSQL
 - **Other:** Java, PHP, Laravel, WinForms, WPF
-- **Tools:** Visual Studio, VS Code, Git, Postman ## 
+- **Tools:** Visual Studio, VS Code, Git, Postman ##
+
+
 ---
 
 ## 📌 Featured Projects
